@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+topsis-shreshth-101803503/__init__.py
+topsis-shreshth-101803503/topsis.py
+topsis_shreshth_101803503.egg-info/PKG-INFO
+topsis_shreshth_101803503.egg-info/SOURCES.txt
+topsis_shreshth_101803503.egg-info/dependency_links.txt
+topsis_shreshth_101803503.egg-info/requires.txt
+topsis_shreshth_101803503.egg-info/top_level.txt

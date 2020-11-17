@@ -12,9 +12,8 @@ setup(
   long_description=readme(),
   long_description_content_type="text/markdown",
   author = 'Shreshth Arora',                  
-  author_email = 'sarora_be18@thapar.edu',      
-  url = 'https://github.com/AroraShreshth/topsis',   
-  download_url = 'https://github.com/AroraShreshth/archive/0.1.tar.gz', 
+  author_email = 'pypi@shreshtharora.com',      
+  url = 'https://github.com/AroraShreshth/topsis', 
   install_requires=[          
           'pandas',
           'numpy',
